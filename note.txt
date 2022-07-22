@@ -1,0 +1,49 @@
+notes----
+
+maxon
+
+font-family----
+
+ 'Poppins';
+     400,500,600, 700
+
+     font-family: 'Poppins', sans-serif;
+
+'Roboto';
+      400,500,700
+      font-family: 'Roboto', sans-serif;
+
+color-------
+
+blue :#112e41; 
+hover:  #ff7214;;
+
+header----
+
+banner-----
+   xxl-xl-lg       md           sm/col
+padding
+   35/65          35-65           
+   
+
+books
+courses
+others
+blog
+
+sign in
+
+
+layout define-----
+
+
+section define-----
+
+semantic markup----
+
+
+code comment----
+
+reuseable blocks
+
+
